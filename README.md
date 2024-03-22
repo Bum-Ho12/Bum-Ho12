@@ -11,9 +11,3 @@ Skills: PYTHON/JAVASCRIPT/TYPESCRIPT/C#/DJANGO/ .NET/REACT NATIVE/FLUTTER/AVALON
 - 💬 Ask me about PYTHON/DJANGO/REACT NATIVE/JAVASCRIPT 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bum-Ho12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Bum-Ho12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bumho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Bumho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Bumho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bumho-nisubire.web.app/)  
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bum-Ho12)](https://github.com/anuraghazra/github-readme-stats)
