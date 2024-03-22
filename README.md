@@ -13,3 +13,10 @@ Skills: PYTHON/JAVASCRIPT/TYPESCRIPT/C#/DJANGO/ .NET/REACT NATIVE/FLUTTER/AVALON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bum-Ho12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/bumho12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bumho-nisubire-773a181a0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14521648)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Bumho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bumho-nisubire.web.app/)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bum-Ho12)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bum-Ho12&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Bum-Ho12)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Bum-Ho12)  
