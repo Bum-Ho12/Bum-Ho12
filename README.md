@@ -4,12 +4,12 @@
 #### Software Engineer
 I'm Bumho from Kenya, and I am a software engineer and a Machine Learning enthusiast🫡. I enjoy learning programming and also working with different frameworks like React, Flutter, Avalonia and Django. I like robotics and looking forward to transition my skills to more of hardware after a certain period of time, creating live and moving objects has a little bit of fun in it😊.
 ### Skills and Stacks:
-. ⚛️React
-. 📱Flutter, React Native
-. Python ![python](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-python-48.png)
-. Django ![django](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-django-64.png)
-. Javascript ![Javascript](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-javascript-48.png)/Typescript ![Typescript](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-typescript-48.png)
-. C# ![C sharp](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-c-sharp-64.png)
+. ![React Native](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-react-native-64.png)
+. ![Dart](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-dart-48.png) ![Flutter](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-flutter-48.png)
+. ![python](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-python-48.png)
+. ![django](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-django-64.png)
+. ![Javascript](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-javascript-48.png)/ ![Typescript](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-typescript-48.png)
+. ![C sharp](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-c-sharp-64.png)
 . dotnet, Avalonia
 
 Skills: PYTHON/JAVASCRIPT/TYPESCRIPT/C#/DJANGO/ .NET/REACT NATIVE/FLUTTER/AVALONIA
