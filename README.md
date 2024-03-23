@@ -6,10 +6,10 @@ I'm Bumho from Kenya, and I am a software engineer and a Machine Learning enthus
 ### Skills and Stacks:
 . ⚛️React
 . 📱Flutter, React Native
-. Python
-. Django
-. Javascript/Typescript
-. C#
+. Python ![python](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-python-48.png)
+. Django ![django](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-django-64.png)
+. Javascript ![Javascript](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-javascript-48.png)/Typescript ![Typescript](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-typescript-48.png)
+. C# ![C sharp](https://github.com/Bum-Ho12/Bum-Ho12/blob/main/icons8-c-sharp-64.png)
 . dotnet, Avalonia
 
 Skills: PYTHON/JAVASCRIPT/TYPESCRIPT/C#/DJANGO/ .NET/REACT NATIVE/FLUTTER/AVALONIA
